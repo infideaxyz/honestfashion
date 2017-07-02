@@ -434,6 +434,10 @@ a.icon {
 .header-two {
   background: url('../images/header-bg001.png') no-repeat;
 }
+
+p{
+    margin:10px;
+}
 .header-three {
   background: url('../images/header-three-bg.jpg') no-repeat;
 }
